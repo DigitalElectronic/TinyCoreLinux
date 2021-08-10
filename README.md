@@ -15,9 +15,24 @@ How install TinyCoreLinux &amp; Repository System.
     
 3º To install "Apt" you need open with righ button of mouse.
 
-Go to System option and click in where say Apps.
+![111111](https://user-images.githubusercontent.com/74788266/128923314-730ebd20-d905-43f0-bc27-58cdddaf1b71.jpg)
 
+Go to System option and click in where say Apps.
 Select the mirror where you can download the applications.
+
+
+4º You need this "Apt" to minimal compiler ARM.
+
+
+            git.tcz
+            
+                 compiletc.tcz
+
+                                git.tcz
+
+                                        ncursesw-dev.tcz
+
+_________________________________________________________________
 
     
     
