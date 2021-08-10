@@ -8,12 +8,16 @@ How install TinyCoreLinux &amp; Repository System.
 
     http://tinycorelinux.net/12.x/x86/release/TinyCore-current.iso
 
-2º Go to repository to select name of Application, The system have indiviual build.
-     To install "Apt" you need open with righ button of mouse go to System option and click in where say Apps.
-     Select the mirror where you can download the applications.
+2º Go to repository list web to select name of Application, The system have indiviual build.
 
     http://distro.ibiblio.org/tinycorelinux/3.x/tcz/
-   
+    
+     
+3º  To install "Apt" you need open with righ button of mouse
+    Go to System option and click in where say Apps.
+    Select the mirror where you can download the applications.
+    
+    
 
 
 
