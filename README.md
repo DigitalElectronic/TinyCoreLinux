@@ -19,7 +19,7 @@ How run TinyCoreLinux.
 
 ![111111](https://user-images.githubusercontent.com/74788266/128923314-730ebd20-d905-43f0-bc27-58cdddaf1b71.jpg)
 ________________________________________________________________
-<b>Select the mirror where you want download the applications.</b><br>
+<b>Select the mirror where you want download the applications.</b>  <sub> Repository APPs</sub>   <br>
 <br>
 <br>
 <b> Go to /App/Browser and wait to the list. </b><br>
