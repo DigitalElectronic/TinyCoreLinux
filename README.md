@@ -52,7 +52,6 @@ _________________________________________________________________
 </tr>
 </tbody>
 </table>
-<p>The links of tutorial will be make here</p>
 
 
 
