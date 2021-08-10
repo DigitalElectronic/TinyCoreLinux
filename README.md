@@ -28,7 +28,7 @@ Select the mirror where you can download the applications.
             
                  compiletc.tcz
 
-                                git.tcz
+                                unzip.tcz
 
                                         ncursesw-dev.tcz
 
