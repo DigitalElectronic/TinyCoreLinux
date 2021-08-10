@@ -10,6 +10,9 @@ How install TinyCoreLinux &amp; Repository System.
 
 2º Go to repository to select name of Application, The system have indiviual build.
 
+    http://distro.ibiblio.org/tinycorelinux/3.x/tcz/
+   
+
 
 
 
