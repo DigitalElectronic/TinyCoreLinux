@@ -13,9 +13,12 @@ How install TinyCoreLinux &amp; Repository System.
     http://distro.ibiblio.org/tinycorelinux/3.x/tcz/
     
     
-3º  To install "Apt" you need open with righ button of mouse
-4º  Go to System option and click in where say Apps.
-5º  Select the mirror where you can download the applications.
+3º To install "Apt" you need open with righ button of mouse
+-------------------------------------------------------------------
+Go to System option and click in where say Apps-
+ -------------------------------------------------------------------
+Select the mirror where you can download the applications.
+-------------------------------------------------------------------
     
     
 
