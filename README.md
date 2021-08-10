@@ -3,7 +3,9 @@
 
 <b>1º Download the image .ISO AutoBoot.</b>
 
-   http://tinycorelinux.net/12.x/x86/release/TinyCore-current.iso
+    http://tinycorelinux.net/12.x/x86/release/TinyCore-current.iso
+
+   
 
 <b>2º Go to repository list web to select name of Application, The system have indiviual build.</b>
 
