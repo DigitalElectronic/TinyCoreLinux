@@ -13,13 +13,13 @@ How run TinyCoreLinux &amp; Repository System.
     http://distro.ibiblio.org/tinycorelinux/3.x/tcz/
     
     
-3º To install "Apt" you need open with righ button of mouse.
+3º To install "Apt" you need open with righ button of mousse.
 
 ![111111](https://user-images.githubusercontent.com/74788266/128923314-730ebd20-d905-43f0-bc27-58cdddaf1b71.jpg)
 
 <b>Go to System option and click in where say Apps.</b><br>
 <b>Select the mirror where you can download the applications.</b><br>
-<b>Right Mouse /App/Browser and wait to list. </b><br>
+<b>Right Mousse /App/Browser and wait to list. </b><br>
 
 
 
