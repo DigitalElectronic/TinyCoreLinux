@@ -17,13 +17,13 @@ How run TinyCoreLinux.
 
 ![111111](https://user-images.githubusercontent.com/74788266/128923314-730ebd20-d905-43f0-bc27-58cdddaf1b71.jpg)
 ________________________________________________________________
-<b>Go to System option and click in where say Apps.</b><br>
+<b>Right Mousse and Go to System-Option and click in where say Apps.</b><br>
 <br>
 <br>
 <b>Select the mirror where you can download the applications.</b><br>
 <br>
 <br>
-<b>Right Mousse /App/Browser and wait to list. </b><br>
+<b> Go to /App/Browser and wait to the list. </b><br>
 _____________________________________________________________________________
 
 <br>
