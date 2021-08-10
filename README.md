@@ -17,8 +17,8 @@ How install TinyCoreLinux &amp; Repository System.
 
 ![111111](https://user-images.githubusercontent.com/74788266/128923314-730ebd20-d905-43f0-bc27-58cdddaf1b71.jpg)
 
-Go to System option and click in where say Apps.
-Select the mirror where you can download the applications.
+<b>Go to System option and click in where say Apps.</b>
+<b>Select the mirror where you can download the applications.</b>
 
 
 4º You need this "Apt" to minimal compiler ARM.
