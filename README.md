@@ -19,13 +19,9 @@ ________________________________________________________________
 <b>Select the mirror where you want download the applications.</b>  <sub> Repository APPs</sub> <br> 
 
 
-<br>
-<br>
 <b> Go to /App/Browser and wait to the list. </b><br>
 _____________________________________________________________________________
-
-<br>
-<em>4º You need this "Apt" to minimal compiler ARM.</em>
+4º You need this "Apt" to minimal compiler ARM.
 
 
             git.tcz
