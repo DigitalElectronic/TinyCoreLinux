@@ -1,8 +1,5 @@
 # TinyCoreLinux
-How run TinyCoreLinux.
-
 ![8b8cfc5c57dfd820ed3d4e0728fb9295](https://user-images.githubusercontent.com/74788266/128921665-7f5be774-3c25-4910-81b1-142a860e4890.png)
-
 
 1º Download the image .ISO AutoBoot.
 
@@ -19,7 +16,9 @@ How run TinyCoreLinux.
 
 ![111111](https://user-images.githubusercontent.com/74788266/128923314-730ebd20-d905-43f0-bc27-58cdddaf1b71.jpg)
 ________________________________________________________________
-<b>Select the mirror where you want download the applications.</b>  <sub> Repository APPs</sub>   <br>
+<b>Select the mirror where you want download the applications.</b>  <sub> Repository APPs</sub> <br> 
+
+
 <br>
 <br>
 <b> Go to /App/Browser and wait to the list. </b><br>
