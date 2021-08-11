@@ -55,6 +55,45 @@ _________________________________________________________________
 </tbody>
 </table>
 
+<b> 2º How create a Binary Files </b>
+
+
+
+![Acorn_Archimedes_A3020_2190336806](https://user-images.githubusercontent.com/74788266/129021458-73fac55d-ee6a-43ac-b79f-e848d483f7d5.jpg)
+
+
+        May be clone repository.
+        You need go to Folder u-boot/confgis/ to copy the name of board selected to command write. Example-> rpi_2_defconfig 
+
+<b>1º Source Code Links Repository.</b>
+
+        https://github.com/ARM-software/u-boot.git
+      
+        
+        
+ 
 ![cc](https://user-images.githubusercontent.com/74788266/128943365-bf02fa58-c99a-4481-a650-a212c5d9b1ff.png)
+
+
+ <b>2º Compile the folder with board configuration </b>
+ 
+        Go to terminal and folder "u-boot".
+        Write this commands:
+                          make ARCH=arm rpi_2_defconfig 
+                          make ARCH=arm CC=gcc rpi_2_defconfig 
+                          make
+                          
+         Now you have a new .config file.         
+         
+         
+ <b>3º Create Image or Binary Files depend how you desing.</b>       
+ 
+            
+            Write this;
+            
+               grub-mkimage 
+
+   
+       
 
 
