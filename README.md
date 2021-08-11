@@ -62,18 +62,18 @@ _________________________________________________________________
 ![Acorn_Archimedes_A3020_2190336806](https://user-images.githubusercontent.com/74788266/129021458-73fac55d-ee6a-43ac-b79f-e848d483f7d5.jpg)
 
 
+
+
+![cc](https://user-images.githubusercontent.com/74788266/128943365-bf02fa58-c99a-4481-a650-a212c5d9b1ff.png)
+
         May be clone repository.
         You need go to Folder u-boot/confgis/ to copy the name of board selected to command write. Example-> rpi_2_defconfig 
+
 
 <b>1º Source Code Links Repository.</b>
 
         https://github.com/ARM-software/u-boot.git
       
-        
-        
- 
-![cc](https://user-images.githubusercontent.com/74788266/128943365-bf02fa58-c99a-4481-a650-a212c5d9b1ff.png)
-
 
  <b>2º Compile the folder with board configuration </b>
  
