@@ -102,7 +102,10 @@ _________________________________________________________________
     
          
             # To more option in the output file write "grub-mkimage" to read help.
-                 Or go to https://zoomadmin.com/HowToLinux/LinuxCommand/grub-mkimage you can look the options avaliable.
+    
+                 Or go to >>>>>>  https://manpages.debian.org/unstable/grub-common/grub-mkimage.1.en.html 
+                                           
+                                         You can look the options avaliable.
               
             # Now you have the files in the same folder where you compile before.
             
