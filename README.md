@@ -92,8 +92,12 @@ _________________________________________________________________
             Write this;
             
                grub-mkimage 
-
-   
-       
-
-
+               
+               grub-mkimage -c u-boot.cfg -o 23.bin -O x86_64-efi -p boot
+                  or 
+               grub-mkimage -c u-boot.cfg -o 23.img -O x86_64-efi -p boot
+               
+               
+            #To more option write "grub-mkimage" to read help.
+              Or go to https://zoomadmin.com/HowToLinux/LinuxCommand/grub-mkimage you can look the options avaliable.
+             
